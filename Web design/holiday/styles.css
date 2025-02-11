@@ -1,0 +1,35 @@
+.title {
+    color: green;
+}
+body{
+     background-image: url("Holidays.png");
+      background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    font-size: 47px;
+    color: blue;
+}
+li{
+    font-size: 29px;
+     color: white
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+p{
+    font-size: 25px;
+    color: blue;
+}
+tr{
+    font-size: 15px;
+    color: red;
+}
+.title {
+    color: green;
+}
+
