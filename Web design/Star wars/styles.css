@@ -1,0 +1,69 @@
+.title {
+    color: green;
+}
+body {
+    font-family:times roman;
+    color:white ;
+    background-image:url(starwars.webp);
+    width:30 ;
+    margin: ;
+}
+
+h1 {
+    font-size:large;
+    text-align:center;
+}
+
+h2 {
+    text-align:center;
+}
+
+ul {
+    list-style-type: ;
+    text-align:center;
+}
+
+
+nav li {
+    background-color:gray ;
+    margin: ;
+    padding: ;
+    border-radius: ;    
+}
+
+.photo img {
+    width: ;
+    border-radius: ;  
+}
+
+.thumbs img {
+    height:45px 
+    border-radius:10px;    
+}
+
+.droid {
+    background-color:gray;
+    padding: ;
+    margin: ;
+    border: ;
+    border-radius: ; 
+}
+
+.droid .photo {
+    float: ;
+    margin: ;
+}
+
+.droid:nth-child(even) .photo {
+   
+}
+
+.desc {
+    margin: 1
+}
+
+.droid .thumbs {
+   
+}
+
+

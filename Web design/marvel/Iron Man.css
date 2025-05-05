@@ -1,0 +1,9 @@
+.title {
+    color: green;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+    text-align: center; }
+body{background-image: url(Iron%20man.jpeg);
+    backround-position: center }

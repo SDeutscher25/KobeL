@@ -1,0 +1,55 @@
+.title {
+    color: green;
+}
+h1 {
+    font-size:120px;
+    text-align:center;
+    color:#000000;
+    font-family:"League Gothic", sans-serif;
+    text-shadow: #9fd6f9 1px 0 10px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align:center;
+    color:black;
+    font-family:"League Gothic", sans-serif;
+}
+
+#paragraph{
+    color:black;
+    font-family:"League Gothic", sans-serif;
+    text-align:center;
+    padding:10px;
+    border:5px solid;
+    border-radius:8px;
+    margin:10px;
+  background-color: #bde0ff;
+
+}
+
+.section{
+  background-image: url(lesliedesk.jpeg);
+  height:500px;
+  background-position: center;
+  position: relative;
+  background-size:cover;
+}
+
+img{
+  border:5px solid black;
+  border-radius:;
+  height:250px;
+  width:250px;
+  margin: 5px;
+}
+
+#sp {
+  display:inline-flex;
+  justify-self:center;
+}
+
+body{
+  background-color:#d1eaff;
+}
+--
